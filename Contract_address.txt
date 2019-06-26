@@ -1,0 +1,2 @@
+HalfMoneyCashBackContract Address: 0x3043b125ac23d62386Eb60fDE76374C4c457ac21
+Shopping contract Address: 0x852357cBF681fdFd0406c0c4806080459B24c4b8
